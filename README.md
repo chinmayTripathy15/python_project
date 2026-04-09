@@ -40,3 +40,10 @@ It supports real-world mathematical expressions, history tracking, and file stor
 ### 1. Go to project folder
 ```bash
 cd smart-calculator
+```
+
+
+###  2. Make sure Python is installed
+```bash
+python --version
+```
