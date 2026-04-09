@@ -47,3 +47,8 @@ cd smart-calculator
 ```bash
 python --version
 ```
+
+### 3. Run the program
+``` bash
+python calculator.py
+```
